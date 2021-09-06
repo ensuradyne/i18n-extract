@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "follow"
+msgstr "Suivre"
+
+#: outdatedfile.js:136
+msgid "followed"
+msgstr "Suivi !"
+
+msgid "Old message that will be removed"
+msgstr "View message qui sera supprimé"
